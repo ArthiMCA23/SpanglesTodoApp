@@ -1,0 +1,5 @@
+.header-bg {
+    background: linear-gradient(135deg, #4CAF50, #2196F3);
+    color: #fff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
